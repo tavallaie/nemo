@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "nemosyne"
-version = "0.1.0"
-description = ""
+version = "0.0.1"
+description = "nemosyne (aka [Mnemosyne](https://en.wikipedia.org/wiki/Mnemosyne)) is an S3 command-line manager.WIP"
 authors = ["Ali Tavallaie <a.tavallaie@gmail.com>"]
 readme = "README.md"
 
